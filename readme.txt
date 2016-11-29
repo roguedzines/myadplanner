@@ -1,1 +1,1 @@
-This is test file for my first project on github
+Adplanner custom code for Wordpress Site http://adplanner.roguedzines.com/
